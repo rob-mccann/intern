@@ -12,7 +12,7 @@
     "chai": "3.5.0",
     "charm": "0.2.0",
     "diff": "1.1.0",
-    "digdug": "1.4.1",
+    "digdug": "rob-mccann/digdug#very-verbose",
     "dojo": "2.0.0-alpha.7",
     "glob": "7.0.3",
     "istanbul": "0.4.1",
